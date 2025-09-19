@@ -6,5 +6,5 @@ export interface PillProps {
 
 export interface ButtonProps {
   title: string;
-  styles?: string; // optional extra Tailwind classes
+  styles: string; // optional extra Tailwind classes
 }
